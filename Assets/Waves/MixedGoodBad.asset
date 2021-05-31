@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c1f96ad465b65dc49b47830cbca5a6a7, type: 3}
+  m_Name: MixedGoodBad
+  m_EditorClassIdentifier: 
+  enemies:
+  - {fileID: 3780784519071124191, guid: 9f05d2a46ef3ac146b4b72969207e297, type: 3}
+  - {fileID: 6219186105227818040, guid: f86bfd74f6bed35478ecec5d0e195cb4, type: 3}
+  - {fileID: 6219186105227818040, guid: f86bfd74f6bed35478ecec5d0e195cb4, type: 3}
+  - {fileID: 3780784519071124191, guid: 9f05d2a46ef3ac146b4b72969207e297, type: 3}
+  - {fileID: 3016241099234127660, guid: a9bab4d26c521434d9f8e20a18db9ae9, type: 3}
+  - {fileID: 3780784519071124191, guid: 9f05d2a46ef3ac146b4b72969207e297, type: 3}
+  - {fileID: 3780784519071124191, guid: 9f05d2a46ef3ac146b4b72969207e297, type: 3}
+  - {fileID: 3016241099234127660, guid: a9bab4d26c521434d9f8e20a18db9ae9, type: 3}
+  - {fileID: 6219186105227818040, guid: f86bfd74f6bed35478ecec5d0e195cb4, type: 3}
+  - {fileID: 9120354261955896538, guid: d71195704452cb748a49b864b61dd17a, type: 3}
+  - {fileID: 6219186105227818040, guid: f86bfd74f6bed35478ecec5d0e195cb4, type: 3}
+  - {fileID: 3780784519071124191, guid: 9f05d2a46ef3ac146b4b72969207e297, type: 3}
+  - {fileID: 3016241099234127660, guid: a9bab4d26c521434d9f8e20a18db9ae9, type: 3}
+  - {fileID: 9120354261955896538, guid: d71195704452cb748a49b864b61dd17a, type: 3}
+  delayBetweenSpawns:
+  - 2
+  - 4
+  - 1
+  - 1
+  - 2
+  - 3
+  - 4
+  - 2
+  - 1
+  - 2
+  - 4
+  - 2
+  - 2
+  - 4
